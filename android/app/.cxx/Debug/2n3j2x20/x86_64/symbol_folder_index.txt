@@ -1,0 +1,1 @@
+/Users/mac/Developer/stockbook/stockbook-mobile/android/app/build/intermediates/cxx/Debug/2n3j2x20/obj/x86_64

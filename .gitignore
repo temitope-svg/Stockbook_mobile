@@ -1,0 +1,16 @@
+node_modules
+.env
+.env.local
+dist
+build
+.DS_Store
+node_modules/
+.env
+.env.local
+.DS_Store
+ios/Pods/
+ios/build/
+android/build/
+android/.gradle/
+android/app/build/
+.expo/

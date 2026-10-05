@@ -1,0 +1,18 @@
+current directory: /Users/mac/Developer/stockbook/stockbook-mobile/vendor/bundle/ruby/4.0.0/gems/nkf-0.3.0/ext/nkf
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/mac/Developer/stockbook/stockbook-mobile/vendor/bundle/ruby/4.0.0/gems/nkf-0.3.0/ext/nkf
+make -j9 DESTDIR\= sitearchdir\=./.gem.20260927-89183-ckwwrg sitelibdir\=./.gem.20260927-89183-ckwwrg clean
+
+current directory: /Users/mac/Developer/stockbook/stockbook-mobile/vendor/bundle/ruby/4.0.0/gems/nkf-0.3.0/ext/nkf
+make -j9 DESTDIR\= sitearchdir\=./.gem.20260927-89183-ckwwrg sitelibdir\=./.gem.20260927-89183-ckwwrg
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Users/mac/Developer/stockbook/stockbook-mobile/vendor/bundle/ruby/4.0.0/gems/nkf-0.3.0/ext/nkf
+make -j9 DESTDIR\= sitearchdir\=./.gem.20260927-89183-ckwwrg sitelibdir\=./.gem.20260927-89183-ckwwrg install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20260927-89183-ckwwrg
+
+current directory: /Users/mac/Developer/stockbook/stockbook-mobile/vendor/bundle/ruby/4.0.0/gems/nkf-0.3.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20260927-89183-ckwwrg sitelibdir\=./.gem.20260927-89183-ckwwrg clean
